@@ -1,0 +1,1 @@
+# easydict_alfred_workflow
